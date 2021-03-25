@@ -1,2 +1,3 @@
 # notebook
-学习笔记
+
+Stay hungry, Stay foolish.
