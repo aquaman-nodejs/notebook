@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-blue-book",
+  "version": "1.0.0",
+  "description": "Node.js 蓝宝书",
+  "scripts": {
+    "serve": "gitbook serve",
+    "build": "gitbook build && node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitee.com:zonglu/nodejs-blue-book.git"
+  },
+  "keywords": [
+    "nodejs",
+    "教程",
+    "开发"
+  ],
+  "author": "zl&ky",
+  "license": "MIT",
+  "devDependencies": {
+    "gitbook-plugin-livereload": "^0.0.1",
+    "gitbook-plugin-back-to-top-button": "^0.1.4",
+    "gitbook-plugin-search-pro": "^2.0.2",
+    "gitbook-plugin-flexible-alerts": "^1.0.3",
+    "gitbook-plugin-theme-lou": "file:/Users/pg/Documents/Gitee/gitbook-plugin-theme-lou"
+  }
+}
